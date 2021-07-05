@@ -1,0 +1,68 @@
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  padding-left: 0%;
+}
+li{
+  float: right;
+  padding-right: 50px;
+  margin-left: 0%;
+}
+a{
+  text-decoration: none;
+  padding: 10px 20px;
+  width: auto;
+  height: 100%;
+  display: block;
+  font-weight: 600;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+body{
+  background-image: url(123.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 150%;
+  margin: 0%;
+}
+.box{
+  width: 100%;
+  height: auto;
+  background-image: linear-gradient(orange, tomato);
+  overflow: hidden;
+  position: fixed;
+  top: 0%;
+}
+.MIDDLE{
+  text-align: center;
+  padding-top: 10%; 
+}
+h1{
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+}
+.NEW-BUTTON{
+  background-image: radial-gradient(orange, salmon);
+  width: fit-content;
+  background-position: center;
+  margin-left: 46%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+p{
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(255, 255, 255);
+
+}
+.set-logo{
+  width: 12%;
+  border-radius: 200px;
+  border-style: inset;
+  
+ 
+}
